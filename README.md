@@ -108,3 +108,11 @@ The insights generated from this project can help businesses:
 * **Enhance Decision-Making:** Provide data-driven recommendations through clear visualizations and analytics.
 * **Optimize Supply Chain Operations:** Improve overall efficiency by identifying performance bottlenecks and demand patterns.
 
+---
+
+##🚀 Live Demo
+
+Experience the interactive Supply Chain Analytics dashboard here:
+
+🔗 Live Application:
+https://supplychain-analytics.streamlit.app/
